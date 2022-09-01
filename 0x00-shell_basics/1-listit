@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls
+=======
+1-listit
+>>>>>>> 6bed76875771b18119ac883add89baab72caac1e
